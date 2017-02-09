@@ -1,3 +1,6 @@
 blue
 orange
 yellow
+red
+black
+white

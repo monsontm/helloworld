@@ -1,3 +1,6 @@
 strawberries
 bananas
 cherries
+apples
+oranges
+peaches
